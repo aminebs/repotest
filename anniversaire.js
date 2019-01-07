@@ -8,7 +8,7 @@ $(function () {
     var $list;
     $list = $('ul');
     //définition du tableau des messages à afficher
-    message = ['Sante !', 'Bonheur !', 'Et reussite !'];
+    message = ['Sante !', 'Bonheur !', 'Et succes !'];
     
     //tableau des couleurs de fond des messages à afficher
     messageColor = ['#14FA23', '#82D8F5', 'pink', '#FA14EB'];
