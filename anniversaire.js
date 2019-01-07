@@ -17,6 +17,7 @@ $(function () {
     var i = 0;
     //variable servant à lire le son "happy birthday"
     var sound = new Audio();
+    //fichier a rajouter au repertoire racine
     sound.src = "happybirthday.mp3";
     
     //gestion des clics sur les blocs de message

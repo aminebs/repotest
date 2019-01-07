@@ -22,3 +22,4 @@ Notas:
 	✓	L’animation est un lien vers le site giphy.com: "https://media.giphy.com/media/SUA9E0GcSyhCU/giphy.gif.
 	✓	La fonction setBackground() a été créée pour exécuter le changement de background-color et structurer le code du fichier. Elle a deux paramètres: Le Dom et la couleur cibles.
 
+reference: ce fichier readme.txt a ete cree pour repondre a l'activite du cours
